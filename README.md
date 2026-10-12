@@ -147,6 +147,7 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [MeshCore-TEAM](https://play.google.com/store/apps/details?id=com.meshcore.team) 🔒 | Android client focused on group operations (Play Store build of [MeshCore TEAM](https://github.com/tmacinc/MeshCore-TEAM)). |
 | [meshGO!](https://play.google.com/store/apps/details?id=com.meshcore.meshgo) 🔒 | Android off-grid messaging client. |
 | [MeshMapper](https://play.google.com/store/apps/details?id=net.meshmapper.app) 🔒 | Android coverage mapping and wardriving app. |
+| [MeshCore Open](https://github.com/zjs81/meshcore-open/releases) | Android builds of the open-source Flutter client listed under Cross-Platform. |
 
 ### iOS and Apple
 
@@ -181,6 +182,7 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [meshcore-webui](https://github.com/adradr/meshcore-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/adradr/meshcore-webui?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/adradr/meshcore-webui) | Web UI for managing devices and chatting on the mesh. |
 | [meshcore-web (aXistem)](https://github.com/aXistem-dev/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/aXistem-dev/meshcore-web?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/aXistem-dev/meshcore-web) | Docker-ready browser build of the companion app over BLE or USB; image `ghcr.io/axistem-dev/meshcore-web`. |
 | [Official web app](https://app.meshcore.io/) 🔒 | Browser build of the official companion app. |
+| [Official web app](https://app.meshcore.nz/) 🔒 | Browser build of the official companion app. |
 
 ### Terminal
 
@@ -492,6 +494,8 @@ Tools to see what is happening on the mesh.
 | [LilyGo MeshCore guide (Chinese)](https://wiki.lilygo.cc/zh/open-source/meshcore/) | Chinese-language official guide covering supported devices, roles and firmware flashing. |
 | [MeshCore QuickStart (The Comms Channel)](https://www.youtube.com/playlist?list=PLshzThxhw4O4WU_iZo3NmNZOv6KMrUuF9) | Nine-part video series walking through initial MeshCore setup. |
 | [Seeed Studio ESP32 MeshCore guide (Chinese)](https://wiki.seeedstudio.com/cn/get_started_with_esp32s3_meshcore/) | Chinese-language guide for flashing and configuring the XIAO ESP32S3 repeater. |
+| [Andy Kirby getting started video](https://www.youtube.com/watch?v=t1qne8uJBAc) | Beginner walkthrough of setting up MeshCore off-grid text messaging. |
+| [Andy Kirby on YouTube](https://www.youtube.com/@andykirby) | Hardware reviews, repeater builds and firmware walkthroughs. |
 
 
 ## Communities
